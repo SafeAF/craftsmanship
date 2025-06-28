@@ -25,6 +25,7 @@
      * First pass: 180 grit (raise grain removal).
      * Second pass: 220 grit for smoothness.
    * Tack cloth after every sanding.
+   * Let primer dry fully before sanding — rushing this can tear or clog paper.
 
 4. **Paint Stage**
 
@@ -33,11 +34,21 @@
    * Apply two light coats, sanding lightly with 320 grit between if ultra-smooth finish desired.
    * Paint **edges last** with separate foam brush to prevent runs.
 
-## Drip & Defect Mitigation
+## Painting Tips & Drip Prevention
 
-* **Raking light** exposes wet drips before they cure.
-* **Dedicated edge brush**, nearly dry, lets you control corners.
-* **Walk the piece** 1–2 minutes after coating to catch flaws.
+* **Use raking light**: Position a low-angle light source to instantly expose drips and brush marks.
+* **Work top to bottom**: Let gravity be your ally — it’s easier to fix sags when you end at the bottom.
+* **Feather your strokes**: Always lift off gently at the end of a stroke to avoid heavy buildup.
+* **Dedicated edge pass**:
+
+  * Use a second brush or foam applicator with **barely any paint**.
+  * Hit edges last and very lightly.
+* **Drip patrol loop**:
+
+  * After finishing one coat, circle the piece again after 2–3 minutes.
+  * Catch fresh drips with a clean brush edge or cloth.
+* **Avoid overloading**: Dip lightly, offload onto cardboard, and apply in thin coats.
+* **Vertical surfaces**: Use thinner coats or lay the piece flat if possible.
 
 ## Finish Coat
 
